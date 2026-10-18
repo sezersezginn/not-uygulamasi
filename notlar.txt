@@ -1,0 +1,5 @@
+sudo su - root user(en yetkili kullanici)'a gecis yapmamizi saglar
+cat - dosyanin icindeki metni direkt terminalde okumamizi saglar
+mv - dosyalarin adini degistirmemizi veya baska bir klasore tasimamizi saglar
+ls - bulundugumuz klasordeki dosyalari gosterir
+mkdir - yeni bir dosya olusturur
