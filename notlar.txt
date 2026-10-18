@@ -3,3 +3,8 @@ cat - dosyanin icindeki metni direkt terminalde okumamizi saglar
 mv - dosyalarin adini degistirmemizi veya baska bir klasore tasimamizi saglar
 ls - bulundugumuz klasordeki dosyalari gosterir
 mkdir - yeni bir dosya olusturur
+git add - degisiklik yaptigimiz dosyalari kaydetmeden once bekleme alanina alir
+git commit - bekleme alanindaki degisiklikleri kalici olarak bilgisayara kaydeder
+git branch - projedeki mevcut dallari gosterir
+git push - localdeki kodlari githubdaki depoya gonderir
+git status - projedeki degisiklikleri gosterir
