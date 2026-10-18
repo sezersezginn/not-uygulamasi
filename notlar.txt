@@ -8,3 +8,4 @@ git commit - bekleme alanindaki degisiklikleri kalici olarak bilgisayara kaydede
 git branch - projedeki mevcut dallari gosterir
 git push - localdeki kodlari githubdaki depoya gonderir
 git status - projedeki degisiklikleri gosterir
+PR acmak icin eklendi
